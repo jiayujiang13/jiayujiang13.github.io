@@ -1,0 +1,46 @@
+p{
+    color: #408080;
+}
+
+a.bellalink{
+    padding:0px 30px;
+    margin:0px 0px 0px 10px;
+    border-radius:50px;
+    color:plum;
+}
+
+a.bellalink:hover{
+    background-color: plum;
+    color:white;
+}
+
+div.belladivgrey{
+    background-color: beige;
+    padding: 30px;
+    border-radius: 10px;
+    border:2px solid gray;
+    width:95%;
+    margin:10px auto;
+}
+
+h4.bellasmallh4{
+    font-size: 18px;
+}
+
+section#about.resume-section{
+    background-color: rgb(224, 220, 216);
+}
+
+.bellacrop{
+    height:200px;
+    overflow:hidden;
+    object-fit:cover;
+    margin:10px 5px;
+    border-radius:10px;
+}
+
+.andycallmebg{
+    background-image: url("../assets/img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
