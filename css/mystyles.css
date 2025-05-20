@@ -48,3 +48,21 @@ section#about.resume-section{
 .bellaserif{
   font-family: "Noto Serif TC", serif;
 }
+
+.bellacenter{
+    text-align: center;
+}
+
+.bellahl{
+    color: red;
+    font-weight: 900;
+}
+
+.button{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
