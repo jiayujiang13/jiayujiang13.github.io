@@ -15,7 +15,7 @@ a.bellalink:hover{
 }
 
 div.belladivgrey{
-    background-color: beige;
+    background-color:beige;
     padding: 30px;
     border-radius: 10px;
     border:2px solid gray;
@@ -39,7 +39,7 @@ section#about.resume-section{
     border-radius:10px;
 }
 
-.andycallmebg{
+.bellacallmebg{
     background-image: url("../assets/img/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -65,4 +65,12 @@ section#about.resume-section{
     padding: 10px 20px;
     border: none;
     cursor: pointer;
+}
+
+.bellaco{
+    color: white;
+}
+
+.bellawhitebg{
+    background-color: white !important;
 }
