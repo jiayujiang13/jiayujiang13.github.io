@@ -74,3 +74,11 @@ section#about.resume-section{
 .bellawhitebg{
     background-color: white !important;
 }
+
+.bellasc{
+    height:200px;
+    overflow:hidden;
+    object-fit:cover;
+    margin:10px 5px;
+    border-radius:10px;
+}
