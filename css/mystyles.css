@@ -75,8 +75,6 @@ section#about.resume-section{
     background-color: white !important;
 }
 
-.bellasc{
-    height:200px;
-    overflow:hidden;
-    object-fit:cover;
+.card-img-top{
+    
 }
